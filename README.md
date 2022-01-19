@@ -1,5 +1,3 @@
-<img src="https://avatars.githubusercontent.com/u/60384943?v=4">
-
 <h2> Hey there! I'm Phumlani.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
