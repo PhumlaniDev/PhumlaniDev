@@ -46,5 +46,5 @@
 <p align="center">
 <a href="https://aphumlani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-aphumlani.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/phumlani-arendse/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Phumlani%20Arendse-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:arendsephumlani@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:arendsephumlani@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-arendsephumlani@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
