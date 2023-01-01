@@ -36,6 +36,7 @@ I started programming in 2019. Initially working with HTML and CSS, I found a pa
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/PhumlaniDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/phumlani-arendse/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
