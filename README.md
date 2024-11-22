@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phumlani Arendse
 ========================================================================================================================================
 
-Web Developer and aspiring Android Developer
+Java Developer and Web Developer
 --------------------------------------------
 
-I started programming in 2019. Initially working with HTML and CSS, I found a passion for backend development using Java.
+I started programming in 2019. Initially working with HTML and CSS but I found a passion for backend development using Java.
 
 * 🌍 I'm based in South Africa, Cape Town
 * ✉️  You can contact me at [arendsephumlani@gmail.com](mailto:arendsephumlani@gmail.com)
